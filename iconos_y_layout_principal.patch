@@ -1,0 +1,16 @@
+Index: app/src/main/java/com/example/jjalv/nuevoreproductormultimedia/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/jjalv/nuevoreproductormultimedia/MainActivity.java	(date 1583141586000)
++++ app/src/main/java/com/example/jjalv/nuevoreproductormultimedia/MainActivity.java	(revision )
+@@ -27,7 +27,7 @@
+         bt2.setOnClickListener(this);
+         bt3.setOnClickListener(this);
+         bt4.setOnClickListener(this);
+-        
++
+ 
+         File file = new File("");
+     }
