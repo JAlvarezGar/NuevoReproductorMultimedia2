@@ -3,5 +3,5 @@
     <item android:drawable="@drawable/power_press"
         android:state_pressed="true" />
 
-    <item android:drawable="@drawable/power"/>
+    <item android:drawable="@drawable/power" />
 </selector>
